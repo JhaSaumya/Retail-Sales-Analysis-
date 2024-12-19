@@ -207,7 +207,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, or feedback, or want to collaborate, feel free to get in touch!
 
-## LINKEDIN : https://www.linkedin.com/in/saumya-jha-3a11a7270/
+## LINKEDIN : 
+**https://www.linkedin.com/in/saumya-jha-3a11a7270/**
+## Email :
+**jhasaumya28@gmail.com**
 
 
 
